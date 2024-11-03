@@ -7,4 +7,5 @@
 #test
 
 #elasticsearch:7.12.1
-mongo:4.4.0
+#mongo:4.4.0
+alist
