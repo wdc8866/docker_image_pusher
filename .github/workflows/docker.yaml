@@ -57,7 +57,7 @@ jobs:
 
     - name: Build and push image Aliyun
       run: |
-        docker login -u admin -p D3CKZu7U8fMAJWc&FZ*d5JtD harbor.xcloud-lab.com:30443
+        echo "D3CKZu7U8fMAJWc&FZ*d5JtD" | docker login -u admin --password-stdin harbor.xcloud-lab.com:30443
         
         # docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $ALIYUN_REGISTRY
         # 数据预处理,判断镜像是否重名
