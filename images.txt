@@ -10,4 +10,5 @@
 #mongo:4.4.0
 #xhofe/alist
 #herberthe0229/iptv-sources:latest
-milvusdb/milvus
+#milvusdb/milvus
+tapdata/tapdata:latest
