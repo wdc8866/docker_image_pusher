@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #test
 
-elasticsearch:7.12.1
+#elasticsearch:7.12.1
 #mongo:4.4.0
 #xhofe/alist
 #herberthe0229/iptv-sources:latest
