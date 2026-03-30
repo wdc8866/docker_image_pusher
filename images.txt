@@ -12,4 +12,5 @@
 #herberthe0229/iptv-sources:latest
 #milvusdb/milvus
 #ghcr.io/tapdata/tapdata:latest
-starrocks/allin1-ubuntu:3.1.17
+#starrocks/allin1-ubuntu:3.1.17
+nacos/nacos-server:3.2.0
