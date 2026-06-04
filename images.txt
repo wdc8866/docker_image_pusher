@@ -15,4 +15,6 @@
 #starrocks/allin1-ubuntu:3.1.17
 #nacos/nacos-server:3.2.0
 #golang:1.22-alpine
-alpine:3.18
+#alpine:3.18
+nginx:alpine
+node:20-alpine
