@@ -13,4 +13,5 @@
 #milvusdb/milvus
 #ghcr.io/tapdata/tapdata:latest
 #starrocks/allin1-ubuntu:3.1.17
-nacos/nacos-server:3.2.0
+#nacos/nacos-server:3.2.0
+golang:1.22-alpine
