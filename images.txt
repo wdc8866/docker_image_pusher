@@ -28,4 +28,5 @@
 #langgenius/dify-plugin-daemon:0.6.1-local
 #ubuntu/squid:latest
 #nginx:latest
-semitechnologies/weaviate:1.27.0
+#semitechnologies/weaviate:1.27.0
+node:22-slim
