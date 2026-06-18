@@ -29,4 +29,5 @@
 #ubuntu/squid:latest
 #nginx:latest
 #semitechnologies/weaviate:1.27.0
-node:22-slim
+#node:22-slim
+redis:8.6.4
