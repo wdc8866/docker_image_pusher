@@ -34,4 +34,6 @@
 #apache/doris:fe-4.1.2
 #apache/doris:be-4.1.2
 #python:3.13-alpine3.23
-python:3.13-slim
+#python:3.13-slim
+openjdk:8-jdk-slim
+
